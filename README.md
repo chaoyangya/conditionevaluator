@@ -123,7 +123,7 @@ if __name__ == '__main__':
     print(params_door_type_2(1))
 
 # 结果输出
->> > 2
+>>> 2
 ```
 
 
