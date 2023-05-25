@@ -12,7 +12,7 @@ long_description = (here / "README.md").read_text(encoding="utf-8")
 
 setuptools.setup(
     name="conditionevaluator",
-    version="1.0.0",
+    version="1.0.1",
     author="cy what",
     author_email="45204307@qq.com",
     description="Package of modules that encapsulate the if else multi-condition judgment",

@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: conditionevaluator
-Version: 1.0.0
+Version: 1.0.1
 Summary: Package of modules that encapsulate the if else multi-condition judgment
 Home-page: https://github.com/chaoyangya/conditionevaluator
 Author: cy what
