@@ -1,0 +1,10 @@
+README.md
+setup.py
+conditionevaluator/__init__.py
+conditionevaluator/conditionevaluator.py
+conditionevaluator.egg-info/PKG-INFO
+conditionevaluator.egg-info/SOURCES.txt
+conditionevaluator.egg-info/dependency_links.txt
+conditionevaluator.egg-info/top_level.txt
+test/__init__.py
+test/test.py

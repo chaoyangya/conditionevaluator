@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
-
-from conditionevaluator.conditionevaluator import conditionevaluator
+import conditionevaluator
 
 @conditionevaluator
 def doorType(door):
